@@ -55,8 +55,8 @@ body {
   width: 250px;
   height: 100px;
   border-radius: 50%;
-  background-color: #272761;
-  box-shadow: 0 2px 0px #383878, 0 4px 0px #040433, 0 6px 0px #030423, 0 8px 0px #020423, 0 10px 0px #010413, 0 12px 0px #1a1a6e, 0 14px 0px #181865, 0 16px 0px #16165c, 0 18px 0px #141453, 0 20px 0px #12124a, 0 22px 0px #101041, 0 24px 0px #0e0e38, 0 26px 0px #0c0c2f, 0 28px 0px #0a0a26, 0 30px 0px #08081d;
+  background-color: #f2d0df;
+  box-shadow: 0 2px 0px #f2d0df, 0 4px 0px #f4c8db, 0 6px 0px #f6bdd6, 0 8px 0px #f9b0d0, 0 10px 0px #feadd0, 0 12px 0px #fc9fc7, 0 14px 0px #f2d0df, 0 16px 0px #f2d0df, 0 18px 0px #f2d0df, 0 20px 0px #f2d0df, 0 22px 0px #f2d0df, 0 24px 0px #f2d0df, 0 26px 0px #f2d0df, 0 28px 0px #f2d0df, 0 30px 0px #f2d0df;
 }
 
 .layer-top {
@@ -74,7 +74,7 @@ body {
 .icing {
   top: 2px;
   left: 5px;
-  background-color: #abc9de;
+  background-color: rgb(255, 242, 248);
   width: 240px;
   height: 90px;
   border-radius: 50%;
@@ -86,8 +86,8 @@ body {
   right: 5px;
   bottom: 6px;
   left: 5px;
-  background-color: #B6D0E2;
-  box-shadow: 0 0 4px #cce1f0, 0 0 4px #cce1f0, 0 0 4px #cce1f0;
+  background-color: rgb(255, 242, 248);
+  box-shadow: 0 0 4px rgb(255, 239, 246), 0 0 4px rgb(252, 235, 243), 0 0 4px rgb(252, 236, 244);
   border-radius: 50%;
   z-index: 1;
 }
@@ -98,7 +98,7 @@ body {
   height: 60px;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  background-color: #abc9de; 
+  background-color: rgb(251, 235, 242); 
 }
 
 .drip1 {
